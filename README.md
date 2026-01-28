@@ -24,5 +24,6 @@ automação e infraestrutura** 👇
 ---
 
 ## 📫 Contato
-- 💼 LinkedIn: https://www.linkedin.com/in/joerbeth-serra-costa-460b081ba...
-- 📧 Email: seuemail@exemplo.com
+- 💼 LinkedIn: https://www.linkedin.com/in/joerbeth-serra-costa
+- 📧 Email: informatica@jkinfonet.com.br
+  
